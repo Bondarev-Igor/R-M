@@ -1,0 +1,11 @@
+.character-page__image-placeholder {
+    width: 200px;
+    height: 200px;
+    background: #eee;
+    display: grid;
+    place-items: center;
+}
+
+.character-page__back {
+    margin-bottom: 1rem;
+}
